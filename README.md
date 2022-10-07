@@ -8,6 +8,8 @@ REQUIREMENTS You would need to activate the server and run this in the back end.
 
 INSTALLATION There is no installation required.
 
+Demo Video: https://drive.google.com/file/d/1OUsUN6hUsHMGAUXPUi7l9B0brvAcuZyQ/view
+
 TROUBLESHOOTING For any issues please contact danielxgoldin@gmail.com
 
 MIT License![Employee Tracker]
